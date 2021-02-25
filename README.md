@@ -8,6 +8,10 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
   2.  What are the riding habits of males vs females?
   3.  How has the data changed across age groups?
   4.  What are the locations of the most popular stations?
+
+### Tableau Workbook
+
+[Tableau Public CitiBike Workbook](https://public.tableau.com/views/Citi_Bike_Tableau_Challenge/CitiBike?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
  
  ### Data Analysis
  
