@@ -1,4 +1,4 @@
-# New York City Bike
+# New York Citi Bike
 
 ### Background
 
